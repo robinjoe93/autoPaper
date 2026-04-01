@@ -1,10 +1,132 @@
 [
-  {"id": "2309.06180", "date": "2026-04-01", "title": "vLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention"},
-  {"id": "2603.29791", "date": "2026-04-01", "title": "Simula: Reasoning-Driven Synthetic Data Generation and Evaluation"},
-  {"id": "2603.29640", "date": "2026-04-01", "title": "ASI-Evolve: AI Accelerates AI"},
-  {"id": "2603.29656", "date": "2026-04-01", "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management"},
-  {"id": "2603.27254", "date": "2026-04-01", "title": "Amalgam: Hybrid LLM-PGM Synthesis Algorithm for Accuracy and Realism"},
-  {"id": "2603.29522", "date": "2026-04-01", "title": "Baby Scale: Investigating Models Trained on Individual Children's Language Input"},
-  {"id": "2506.07491", "date": "2026-04-01", "title": "SpatialLM: Training Large Language Models for Structured Indoor Modeling"},
-  {"id": "2603.25502", "date": "2026-04-01", "title": "RealRestorer: Towards Generalizable Real-World Image Restoration"}
+  {
+    "id": "2309.06180",
+    "date": "2026-04-01",
+    "title": "vLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention"
+  },
+  {
+    "id": "2603.29791",
+    "date": "2026-04-01",
+    "title": "Simula: Reasoning-Driven Synthetic Data Generation and Evaluation"
+  },
+  {
+    "id": "2603.29640",
+    "date": "2026-04-01",
+    "title": "ASI-Evolve: AI Accelerates AI"
+  },
+  {
+    "id": "2603.29656",
+    "date": "2026-04-01",
+    "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management"
+  },
+  {
+    "id": "2603.27254",
+    "date": "2026-04-01",
+    "title": "Amalgam: Hybrid LLM-PGM Synthesis Algorithm for Accuracy and Realism"
+  },
+  {
+    "id": "2603.29522",
+    "date": "2026-04-01",
+    "title": "Baby Scale: Investigating Models Trained on Individual Children's Language Input"
+  },
+  {
+    "id": "2506.07491",
+    "date": "2026-04-01",
+    "title": "SpatialLM: Training Large Language Models for Structured Indoor Modeling"
+  },
+  {
+    "id": "2603.25502",
+    "date": "2026-04-01",
+    "title": "RealRestorer: Towards Generalizable Real-World Image Restoration"
+  },
+  {
+    "id": "2510.06596",
+    "date": "2026-04-01",
+    "title": "SDQM: Synthetic Data Quality Metric for Object Detection Dataset\n  Evaluation"
+  },
+  {
+    "id": "2510.15162",
+    "date": "2026-04-01",
+    "title": "Train a Unified Multimodal Data Quality Classifier with Synthetic Data"
+  },
+  {
+    "id": "2510.24078",
+    "date": "2026-04-01",
+    "title": "Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained\n  Classification"
+  },
+  {
+    "id": "2603.28763",
+    "date": "2026-04-01",
+    "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models"
+  },
+  {
+    "id": "2603.21354",
+    "date": "2026-04-01",
+    "title": "The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM S"
+  },
+  {
+    "id": "2510.11919",
+    "date": "2026-04-01",
+    "title": "LLM Reasoning for Machine Translation: Synthetic Data Generation over\n  Thinking Tokens"
+  },
+  {
+    "id": "2602.20951",
+    "date": "2026-04-01",
+    "title": "See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic"
+  },
+  {
+    "id": "2510.03264",
+    "date": "2026-04-01",
+    "title": "Front-Loading Reasoning: The Synergy between Pretraining and\n  Post-Training Data"
+  },
+  {
+    "id": "2510.17715",
+    "date": "2026-04-01",
+    "title": "QueST: Incentivizing LLMs to Generate Difficult Problems"
+  },
+  {
+    "id": "2601.10305",
+    "date": "2026-04-01",
+    "title": "DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset"
+  },
+  {
+    "id": "2603.28670",
+    "date": "2026-04-01",
+    "title": "Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment wi"
+  },
+  {
+    "id": "2603.26444",
+    "date": "2026-04-01",
+    "title": "Image-based Quantification of Postural Deviations on Patients with Cervical Dystonia: A Machine Lear"
+  },
+  {
+    "id": "2603.25726",
+    "date": "2026-04-01",
+    "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation"
+  },
+  {
+    "id": "2603.26754",
+    "date": "2026-04-01",
+    "title": "Generating Synthetic Wildlife Health Data from Camera Trap Imagery: A Pipeline for Alopecia and Body"
+  },
+  {
+    "id": "2510.03434",
+    "date": "2026-04-01",
+    "title": "Paris: A Decentralized Trained Open-Weight Diffusion Model"
+  },
+  {
+    "id": "2510.17928",
+    "date": "2026-04-01",
+    "title": "EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable\n  Learning"
+  },
+  {
+    "id": "2510.15510",
+    "date": "2026-04-01",
+    "title": "Exploring Conditions for Diffusion models in Robotic Control"
+  },
+  {
+    "id": "2511.07025",
+    "date": "2026-04-01",
+    "title": "Llama-Embed-Nemotron-8B: A Universal Text Embedding Model for\n  Multilingual and Cross-Lingual Tasks"
+  }
 ]
