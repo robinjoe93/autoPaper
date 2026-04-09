@@ -128,5 +128,40 @@
     "id": "2511.07025",
     "date": "2026-04-01",
     "title": "Llama-Embed-Nemotron-8B: A Universal Text Embedding Model for\n  Multilingual and Cross-Lingual Tasks"
+  },
+  {
+    "id": "2603.05312",
+    "date": "2026-04-09",
+    "title": "UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data"
+  },
+  {
+    "id": "2603.25725v1",
+    "date": "2026-04-09",
+    "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation"
+  },
+  {
+    "id": "2512.17504",
+    "date": "2026-04-09",
+    "title": "InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion"
+  },
+  {
+    "id": "2603.28763v1",
+    "date": "2026-04-09",
+    "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models"
+  },
+  {
+    "id": "2603.25726v2",
+    "date": "2026-04-09",
+    "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation"
+  },
+  {
+    "id": "2603.28670v1",
+    "date": "2026-04-09",
+    "title": "Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim"
+  },
+  {
+    "id": "2603.29733v1",
+    "date": "2026-04-09",
+    "title": "Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection"
   }
 ]
