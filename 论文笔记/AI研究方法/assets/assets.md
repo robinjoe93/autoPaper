@@ -2,15 +2,15 @@
 tags: [MOC, auto-generated]
 generated_by: dailypaper-skills
 ---
-# 概念目录页：8-仿真器
+# 论文目录页：assets
 
-用于浏览概念笔记和对应分类入口。
+用于浏览论文笔记、分类目录和子主题入口。
 
-- 当前目录：`8-仿真器`
+- 当前目录：`AI研究方法/assets`
 
 ## 当前目录笔记
 
-- [[论文笔记/_概念/8-仿真器/Soft Body Simulation|Soft Body Simulation]]
+- 暂无内容
 
 ## 说明
 
