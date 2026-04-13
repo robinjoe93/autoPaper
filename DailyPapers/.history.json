@@ -163,5 +163,50 @@
     "id": "2603.29733v1",
     "date": "2026-04-09",
     "title": "Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection"
+  },
+  {
+    "id": "2603.19461",
+    "date": "2026-04-13",
+    "title": "Hyperagents: Self-Improving AI Systems"
+  },
+  {
+    "id": "2601.04575",
+    "date": "2026-04-13",
+    "title": "Scaling Behavior Cloning Improves Causal Reasoning"
+  },
+  {
+    "id": "2603.20155",
+    "date": "2026-04-13",
+    "title": "Beyond Single Tokens: Distilling Discrete Diffusion Models"
+  },
+  {
+    "id": "2602.18735",
+    "date": "2026-04-13",
+    "title": "LaS-Comp: Zero-shot 3D Completion"
+  },
+  {
+    "id": "2603.23562",
+    "date": "2026-04-13",
+    "title": "Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition"
+  },
+  {
+    "id": "2512.03244",
+    "date": "2026-04-13",
+    "title": "SPARK: Stepwise Process-Aware Rewards"
+  },
+  {
+    "id": "2510.12225",
+    "date": "2026-04-13",
+    "title": "HoneyBee: Data Recipes for Vision-Language Reasoners"
+  },
+  {
+    "id": "2512.03979",
+    "date": "2026-04-13",
+    "title": "BlurDM: A Blur Diffusion Model"
+  },
+  {
+    "id": "2512.06864",
+    "date": "2026-04-13",
+    "title": "Boosting Unsupervised Video Instance Segmentation"
   }
 ]
