@@ -33,10 +33,13 @@ $$
 ## 代表工作
 
 - DeepSeek-R1: 使用GRPO实现推理能力涌现
+- [[SPARK]]: 使用 GRPO + PRM-CoT 实现无参考 RL 训练，达到 47.4% > RLVR 43.9%
 - [[ASI-Evolve]]: RL算法设计任务的基线，被进化算法超越+12.5分(AMC32)
 
 ## 相关概念
 
 - [[Pairwise Asymmetric Optimization]]
 - [[Budget-Constrained Dynamic Radius]]
+- [[Process Reward Model|PRM]]: GRPO 常与 PRM 结合使用
+- [[RLVR]]: 基于可验证奖励的对比方法
 - Reinforcement Learning from Human Feedback (RLHF)
