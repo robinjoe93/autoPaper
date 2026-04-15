@@ -260,13 +260,13 @@ $$
 
 ### Figure 1: Scientific Task Length Space / 任务复杂度空间
 
-![[ASI-Evolve_fig1_ltask_space.png]]
+![ASI-Evolve_fig1_ltask_space](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/ASI-Evolve_fig1_ltask_space.png)
 
 **说明**: 展示不同科研自动化系统在 $L_{task} = \langle C_{exec}, S_{space}, D_{feedback} \rangle$ 三维空间中的位置。ASI-Evolve 目标任务（架构设计、数据整理、RL算法）位于高复杂度区域，现有系统未曾触及。
 
 ### Figure 2: ASI-Evolve Pipeline / 系统流程
 
-![[ASI-Evolve_fig2_pipeline.png]]
+![ASI-Evolve_fig2_pipeline](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/ASI-Evolve_fig2_pipeline.png)
 
 **说明**: ASI-Evolve 的完整流程：每轮从数据库采样节点→检索认知条目→生成候选程序→执行评估→分析报告存回数据库。突出 Cognition Base 注入和 Analyzer 消化复杂反馈的关键作用。
 
@@ -274,25 +274,25 @@ $$
 
 **Figure 3(a): 框架对比**
 
-![[ASI-Evolve_fig3a_framework_comparison.png]]
+![ASI-Evolve_fig3a_framework_comparison](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/ASI-Evolve_fig3a_framework_comparison.png)
 
 **说明**: ASI-Evolve vs GEPA vs OpenEvolve 在 circle packing 任务上的演化曲线。ASI-Evolve 冷启动更快、持续改进、唯一可靠达到SOTA（2.636）。
 
 **Figure 3(b): 模型对比**
 
-![[ASI-Evolve_fig3b_model_comparison.png]]
+![ASI-Evolve_fig3b_model_comparison](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/ASI-Evolve_fig3b_model_comparison.png)
 
 **说明**: GPT-5-mini vs Qwen3-32B 作为基座模型的演化曲线。两者收敛到相似范围，表明框架能力不依赖特定模型家族。
 
 ### Figure 4: Sampling Algorithm Comparison / 采样算法对比
 
-![[ASI-Evolve_fig4_algorithm_comparison.png]]
+![ASI-Evolve_fig4_algorithm_comparison](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/ASI-Evolve_fig4_algorithm_comparison.png)
 
 **说明**: MAP-Elites vs UCB1 vs Random 采样策略对比。Random 初期高但后期落后；UCB1 在认知辅助下快速收敛；配合 GPT-5-mini 仅17轮达到SOTA。
 
 ### Figure 5: Ablation Curves / 消融实验
 
-![[ASI-Evolve_fig5_ablation_curves.png]]
+![ASI-Evolve_fig5_ablation_curves](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/ASI-Evolve_fig5_ablation_curves.png)
 
 **说明**: Full Method vs No Analyzer vs No Cognition 消融曲线。Cognition 提供冷启动优势；Analyzer 保证持续改进能力；两者缺一则演化受限。
 

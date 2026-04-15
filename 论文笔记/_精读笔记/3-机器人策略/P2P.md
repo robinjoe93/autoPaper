@@ -158,21 +158,21 @@ $$
 
 ### Figure 1: 游戏序列示例
 
-![[P2P_fig1_gameplay.png]]
+![P2P_fig1_gameplay](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig1_gameplay.png)
 
 **说明**: 展示文本注释和动作对齐的游戏序列。键盘动作简化为 WASD，箭头表示鼠标移动方向。
 
 ### Figure 2: P2P 架构与注意力掩码
 
-![[P2P_fig2a_architecture.png]]
-![[P2P_fig2b_mask.png]]
+![P2P_fig2a_architecture](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig2a_architecture.png)
+![P2P_fig2b_mask](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig2b_mask.png)
 
 **说明**: (a) P2P 解码器-only Transformer 架构，文本 token $t_i$ → 图像 token $o_i$ → 推理 token $k_i$ → 动作预测 token $a_{in}$。Action Decoder 自回归解码。 (b) 自定义注意力掩码，绿色表示 1（可关注），灰色表示 0。$a_{in}$ 不能关注当前时间步的 ground-truth 动作。
 
 ### Figure 3: 训练-推理差距
 
-![[P2P_fig3a_gap.png]]
-![[P2P_fig3b_augment.png]]
+![P2P_fig3a_gap](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig3a_gap.png)
+![P2P_fig3b_augment](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig3b_augment.png)
 
 **说明**: (a) 视频压缩导致训练-推理差距，RGB 编码比 YUV 差距更小，QP 值越大质量越差。 (b) 数据增强显著缓解差距。
 
@@ -189,40 +189,40 @@ $$
 
 ### Figure 4: 人类偏好比较
 
-![[P2P_fig4a_comparison.png]]
-![[P2P_fig4b_text.png]]
+![P2P_fig4a_comparison](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig4a_comparison.png)
+![P2P_fig4b_text](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig4b_text.png)
 
 **说明**: (a) 更大模型在人类偏好中获胜比例更高。 (b) 指令跟随测试，给定"press the red button"指令，成功率显著提升。
 
 ### Figure 5: 扩展定律曲线
 
-![[P2P_fig5_scaling.png]]
+![P2P_fig5_scaling](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig5_scaling.png)
 
 **说明**: 1.2B 模型的测试损失与数据量呈幂律关系，拟合良好。
 
 ### Figure 6: 因果性玩具问题
 
-![[P2P_fig6a_toy_env.jpeg]]
-![[P2P_fig6b_toy.png]]
+![P2P_fig6a_toy_env](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig6a_toy_env.jpeg)
+![P2P_fig6b_toy](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig6b_toy.png)
 
 **说明**: (a) 玩具环境：障碍（因果特征）和刹车灯（非因果但相关）。 (b) 更深的网络学习因果策略更快，线性网络 SGD 无法学习因果策略。
 
 ### Figure 7: 因果性评分与规模
 
-![[P2P_fig7_causality.png]]
+![P2P_fig7_causality](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig7_causality.png)
 
 **说明**: 因果性评分随模型规模和数据规模增加（30M 低数据区域除外）。
 
 ### Figure 8: 标注数据分布
 
-![[P2P_fig8_distribution.png]]
+![P2P_fig8_distribution](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig8_distribution.png)
 
 **说明**: 8300+ 小时标注数据涵盖多种游戏类型。
 
 ### Figure 11: Tokenizer 训练效果
 
-![[P2P_fig11a_frozen_train.png]]
-![[P2P_fig11b_frozen_val.png]]
+![P2P_fig11a_frozen_train](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig11a_frozen_train.png)
+![P2P_fig11b_frozen_val](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/P2P_fig11b_frozen_val.png)
 
 **说明**: 解冻图像 tokenizer 训练显著降低训练和验证 perplexity。
 

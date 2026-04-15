@@ -237,49 +237,49 @@ $$
 
 ### Figure 1: Teaser / 系统概览
 
-![[LaS-Comp_fig1.png|600]]
+![LaS-Comp_fig1](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig1.png)
 
 **说明**: LaS-Comp 支持多样 partial patterns：(a) random crops、(b) single-view scans、(c) semantic parts missing。同时支持 (d) 文本引导和无条件补全。
 
 ### Figure 2: Pipeline Overview / 流程概览
 
-![[LaS-Comp_fig2.png|600]]
+![LaS-Comp_fig2](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig2.png)
 
 **说明**: 从 Gaussian noise 开始，迭代 refine latent $\boldsymbol{x}_t$。每步包含 ERS（显式替换）和 IAS（隐式对齐）。
 
 ### Figure 3: ERS Architecture / 显式替换阶段架构
 
-![[LaS-Comp_fig3.png|600]]
+![LaS-Comp_fig3](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig3.png)
 
 **说明**: ERS 双分支设计。Clean Branch（上）通过 spatial replacement 确保 fidelity；Noisy Branch（下）通过 PNS 调制 stochasticity。最终线性插值得到 $\boldsymbol{x}^*_t$。
 
 ### Figure 4: Redwood Comparison / 真实扫描对比
 
-![[LaS-Comp_fig4.png|600]]
+![LaS-Comp_fig4](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig4.png)
 
 **说明**: 在真实 Redwood 数据上的可视化对比，LaS-Comp 生成更完整、细节更丰富的形状。
 
 ### Figure 5: KITTI & ScanNet Comparison / 场景扫描对比
 
-![[LaS-Comp_fig5.png|600]]
+![LaS-Comp_fig5](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig5.png)
 
 **说明**: 在 KITTI（自动驾驶）和 ScanNet（室内场景）数据上的对比，验证真实场景泛化能力。
 
 ### Figure 6: Omni-Comp Comparison / Omni-Comp Benchmark对比
 
-![[LaS-Comp_fig6.png|600]]
+![LaS-Comp_fig6](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig6.png)
 
 **说明**: 在提出的 Omni-Comp benchmark 上的对比，涵盖 random crops、single scans、semantic parts 三种 partial patterns。
 
 ### Figure 7: Diversity / 补全多样性
 
-![[LaS-Comp_fig7.png|600]]
+![LaS-Comp_fig7](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig7.png)
 
 **说明**: 同一 partial input 的多样补全结果，体现生成能力。
 
 ### Figure 8: Ablation / 消融实验可视化
 
-![[LaS-Comp_fig8.png|600]]
+![LaS-Comp_fig8](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/LaS-Comp_fig8.png)
 
 **说明**: 各组件贡献可视化。w/o ERS：生成完全不同形状；w/o PNS：条纹伪影；w/o IAS：boundary holes。
 

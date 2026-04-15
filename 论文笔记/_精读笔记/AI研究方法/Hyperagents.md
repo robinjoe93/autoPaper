@@ -161,7 +161,7 @@ $$
 
 ### Figure 1: Overview / 系统概览
 
-![[Hyperagents_fig1_overview.png]]
+![Hyperagents_fig1_overview](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig1_overview.png)
 
 **说明**: DGM-Hyperagents (DGM-H) 扩展 Darwin Godel Machine 到任意可计算任务。上方为原始DGM：编码智能体同时作为任务智能体和元智能体，使用固定的人工设计的指令生成机制。下方为DGM-H：任务智能体和元智能体整合为单一可修改程序（Hyperagent），元级改进机制本身可被编辑，实现**元认知自我修改**。
 
@@ -169,63 +169,63 @@ $$
 
 **DGM Architecture (Top)**:
 
-![[Hyperagents_fig2_dgm_top.png]]
+![Hyperagents_fig2_dgm_top](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig2_dgm_top.png)
 
 **DGM-H Architecture (Bottom)**:
 
-![[Hyperagents_fig2_dgm-h_bottom.png]]
+![Hyperagents_fig2_dgm-h_bottom](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig2_dgm-h_bottom.png)
 
 **说明**: 对比展示DGM与DGM-H的关键差异。DGM依赖固定指令生成机制，要求任务性能与自我修改技能对齐。DGM-H消除此假设，元智能体可自主改进。
 
 ### Figure 4: Main Experiment Results
 
-![[Hyperagents_fig4_results.png]]
+![Hyperagents_fig4_results](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig4_results.png)
 
 **说明**: DGM-H在论文评审和机器人奖励设计领域的训练/测试性能。DGM-H持续改进并超越所有基线：无自我改进的版本（DGM-H w/o self-improve）、无开端探索的版本（DGM-H w/o open-ended）、以及原始DGM。测试集结果显示泛化能力。
 
 ### Figure 5: Conceptual Comparison
 
-![[Hyperagents_fig5_comparison.png]]
+![Hyperagents_fig5_comparison](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig5_comparison.png)
 
 **说明**: 各方法的架构组件对比。DGM-H唯一具有完整的自我改进元智能体、开端探索和元认知自我修改三个特性。
 
 ### Figure 6: Robotics Reward Design Visualization
 
-![[Hyperagents_fig6_robotics_reward.png]]
+![Hyperagents_fig6_robotics_reward](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig6_robotics_reward.png)
 
 **说明**: 机器人奖励设计领域的结果对比。左图为默认奖励函数导致的站立行为，右图为生成的奖励函数诱导的跳跃行为（更优的躯干高度最大化策略）。
 
 ### Figure 7: Paper Review Self-improvement Archive
 
-![[Hyperagents_fig7_archive_review.png]]
+![Hyperagents_fig7_archive_review](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig7_archive_review.png)
 
 **说明**: 论文评审领域的智能体档案可视化。展示DGM-H如何从初始简单智能体逐步发展为具有复杂评审逻辑的智能体。
 
 ### Figure 8: Robotics Reward Design Archive
 
-![[Hyperagents_fig8_archive_robotics.png]]
+![Hyperagents_fig8_archive_robotics](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig8_archive_robotics.png)
 
 **说明**: 机器人奖励设计领域的智能体档案。展示奖励函数设计的进化过程。
 
 ### Figure 9: Math Grading Archive
 
-![[Hyperagents_fig9_archive_math.png]]
+![Hyperagents_fig9_archive_math](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig9_archive_math.png)
 
 **说明**: 奥林匹克数学评分领域的智能体档案。BetterGrader自动发现改进的评分策略。
 
 ### Figure 10: Confusion Matrices for IMO Grading
 
-![[Hyperagents_fig10_confusion_left.png]]
+![Hyperagents_fig10_confusion_left](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig10_confusion_left.png)
 
-![[Hyperagents_fig10_confusion_right.png]]
+![Hyperagents_fig10_confusion_right](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig10_confusion_right.png)
 
 **说明**: 左图为ProofAutoGrader，右图为DGM-H发现的BetterGrader。BetterGrader减少了对中间解决方案的极端标签误判，正确识别更多"Almost"和"Partial"案例。
 
 ### Figure 11-12: Modifiable Parent Selection
 
-![[Hyperagents_fig11_parent_test.png]]
+![Hyperagents_fig11_parent_test](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig11_parent_test.png)
 
-![[Hyperagents_fig12_archive_modifiable.png]]
+![Hyperagents_fig12_archive_modifiable](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/Hyperagents_fig12_archive_modifiable.png)
 
 **说明**: DGM-H可自动修改父代选择机制。修改版优于随机选择但未超越精心设计的机制，展示了完全自引用优化的潜力和局限。
 
