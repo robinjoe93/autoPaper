@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [diffusion-model, post-training, trajectory-correction, exposure-bias, flow-matching, text-to-image]
 zotero_collection: 1-生成模型/Diffusion
-image_source: local  # online（默认）/ mixed / local
+image_source: online  # online（默认）/ mixed / local
 arxiv_html: https://arxiv.org/html/2604.12617
 created: 2026-04-15
 ---
@@ -243,37 +243,37 @@ $$
 
 ### Figure 1: Post-training 范式概念对比
 
-![[../assets/SOAR/SOAR-002.png]]
+![](https://arxiv.org/html/2604.12617v1/x1.png)
 
 **说明**: 从轨迹视角对比三种 post-training 范式。左：SFT 仅在 ground-truth 去噪状态上训练；中：RL 通过终端奖励区分好坏最终结果，信号稀疏；右：SOAR 执行单步 rollout 生成偏离轨迹状态，监督模型在语义错误完全形成前修正。
 
 ### Figure 2: 噪声级别分析
 
-![[../assets/SOAR/SOAR-004.png]]
+![](https://arxiv.org/html/2604.12617v1/fig/teaser.png)
 
 **说明**: 展示理想轨迹、偏差 rollout 和局部修正方向。偏离状态由当前模型单步 ODE 产生，然后重加噪到辅助级别。
 
 ### Figure 3: 奖励特定训练动态
 
-![[../assets/SOAR/SOAR-196.png]]
+![](https://arxiv.org/html/2604.12617v1/x2.png)
 
 **说明**: 512x512 分辨率下的奖励特定训练动态。(a) OOD DrawBench Aesthetic score，在 3725 对高美学子集（>=6.8）上训练；(b) OOD DrawBench ClipScore，在 6857 对高 ClipScore 子集上训练。SOAR 在两种设置下均达到最高最终值且单调改进。
 
 ### Figure 4: 高美学数据训练可视化
 
-![[../assets/SOAR/SOAR-200.png]]
+![](https://arxiv.org/html/2604.12617v1/x3.png)
 
 **说明**: 高美学子集的训练可视化，覆盖肖像、风景和动漫风格。随着训练进展，SOAR 快速获得连贯构图和结构保真度。
 
 ### Figure 5: Poster 数据训练可视化
 
-![[../assets/SOAR/SOAR-210.png]]
+![](https://arxiv.org/html/2604.12617v1/x4.png)
 
 **说明**: Poster 数据训练可视化。SOAR 学习布局结构、排版位置和视觉层级，保真度高。
 
 ### Figure 6: WebUI 数据训练可视化
 
-![[../assets/SOAR/SOAR-220.png]]
+![](https://arxiv.org/html/2604.12617v1/x5.png)
 
 **说明**: WebUI 数据训练可视化。SOAR 准确捕捉界面元素、阴影效果和细粒度风格细节。
 
