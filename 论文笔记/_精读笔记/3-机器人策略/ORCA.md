@@ -5,7 +5,7 @@ authors: [Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Ki
 year: 2026
 venue: CVPR 2026
 tags: [imitation-learning, diffusion-model, robotic-control, visual-representation, prompt-learning]
-zotero_collection: _待整理
+zotero_collection: 3-机器人策略
 image_source: online
 arxiv_html: https://arxiv.org/html/2510.15510v2
 created: 2026-04-13

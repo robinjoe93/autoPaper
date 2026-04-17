@@ -4,6 +4,7 @@ authors: [MiniMax Team]
 year: 2026
 venue: MiniMax Official Blog
 tags: [paper, agent, self-evolution, llm, software-engineering]
+zotero_collection: AI研究方法
 arxiv_html: https://www.minimax.io/news/minimax-m27-en
 created: 2026-04-17
 ---

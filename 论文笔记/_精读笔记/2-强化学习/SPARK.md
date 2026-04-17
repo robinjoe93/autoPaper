@@ -5,7 +5,7 @@ authors: [Salman Rahman, Sruthi Gorantla, Arpit Gupta, Swastik Roy, Nanyun Peng,
 year: 2025
 venue: arXiv
 tags: [process-reward-model, reinforcement-learning, inference-time-scaling, mathematical-reasoning, llm-training]
-zotero_collection: _待整理
+zotero_collection: 2-强化学习
 image_source: online
 arxiv_html: https://arxiv.org/html/2512.03244v1
 created: 2026-04-13

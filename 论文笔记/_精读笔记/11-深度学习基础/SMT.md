@@ -5,7 +5,7 @@ authors: [Seungju Han, Konwoo Kim, Chanwoo Park, Benjamin Newman, Suhas Kotha, J
 year: 2026
 venue: arXiv
 tags: [synthetic-data, knowledge-learning, rag, llm-training, data-augmentation, continued-pretraining, parametric-knowledge]
-zotero_collection: _待整理
+zotero_collection: 11-深度学习基础
 image_source: online
 arxiv_html: https://arxiv.org/html/2603.23562v2
 created: 2026-04-13

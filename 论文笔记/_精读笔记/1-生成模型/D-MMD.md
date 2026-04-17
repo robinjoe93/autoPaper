@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [discrete-diffusion, diffusion-distillation, moment-matching, text-generation, image-generation, generative-model]
 zotero_collection: 论文笔记
-image_source: local
+image_source: online
 created: 2026-04-13
 ---
 
@@ -215,19 +215,19 @@ $$
 
 ### Figure 1: D-MMD vs Teacher 性能对比
 
-![[D-MMD_fig1.png]]
+![Figure 1: D-MMD vs Teacher 性能对比](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/D-MMD_fig1.png)
 
 **说明**: D-MMD 文本生成器使用更少的 NFE（函数评估次数）即可匹配或超越教师模型。GPT-2 moment 指标显示 16-64 步即可达到最佳性能。
 
 ### Figure 2: 生成的文本样本
 
-![[D-MMD_fig2.png]]
+![Figure 2: 生成的文本样本](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/D-MMD_fig2.png)
 
 **说明**: 16 步 Masked D-MMD 生成的 1024 token 文本样本（未精选），展示流畅的语法和语义连贯性。
 
 ### Figure 3: Perplexity vs Gradient Moment
 
-![[D-MMD_fig3.png]]
+![Figure 3: Perplexity vs Gradient Moment](https://raw.githubusercontent.com/robinjoe93/autoPaper/main/assets/images/D-MMD_fig3.png)
 
 **说明**: Top-p 采样对两个指标的影响。Perplexity 随温度降低持续改善，但 Gradient Moment 在过低温度时会下降——说明低温度样本偏离真实数据分布。
 

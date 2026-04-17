@@ -6,7 +6,7 @@ year: 2026
 venue: arXiv
 tags: [large-language-model, mixture-of-experts, reinforcement-learning, agentic-ai, coding-agent, long-context, sparse-attention]
 zotero_collection: 11-深度学习基础
-image_source: mixed
+image_source: online
 arxiv_html: https://arxiv.org/html/2602.15763
 created: 2026-04-17
 ---
@@ -179,67 +179,67 @@ $$
 
 ### Figure 1: ARC Benchmark Results
 
-![[GLM-5_fig1.png|600]]
+![Figure 1: ARC Benchmark Results](https://arxiv.org/html/2602.15763/x1.png)
 
 **说明**: GLM-5 在 8 个 agentic/reasoning/coding benchmark 上的表现，平均比 GLM-4.7 提升约 20%，与 Claude Opus 4.5 和 GPT-5.2 (xhigh) 相当。
 
 ### Figure 2: Intelligence Index v4.0
 
-![[GLM-5_fig2.png|600]]
+![Figure 2: Intelligence Index](https://arxiv.org/html/2602.15763/x2.png)
 
 **说明**: GLM-5 在 Artificial Analysis Intelligence Index v4.0 上得分 50，成为首个达到此分数的开源权重模型。
 
 ### Figure 3: LMArena Results
 
-![[GLM-5_fig3.png|600]]
+![Figure 3: LMArena Text Arena](https://arxiv.org/html/2602.15763/figures/text-arena.jpeg) ![Figure 3: LMArena Code Arena](https://arxiv.org/html/2602.15763/figures/code-arena.jpeg)
 
 **说明**: GLM-5 在 LMArena Text Arena 和 Code Arena 均为 #1 开源模型。
 
 ### Figure 4: Long-horizon Tasks
 
-![[GLM-5_fig4.png|600]]
+![Figure 4: Vending-Bench](https://arxiv.org/html/2602.15763/figures/vending-bench.jpeg) ![Figure 4: CC-Bench-V2](https://arxiv.org/html/2602.15763/x3.png)
 
 **说明**: Vending-Bench 2（左）和 CC-Bench-V2（右）结果，GLM-5 在长期规划任务上表现优异。
 
 ### Figure 5: Training Pipeline
 
-![[GLM-5_fig5.png|600]]
+![Figure 5: Training Pipeline](https://arxiv.org/html/2602.15763/x4.png)
 
 **说明**: GLM-5 的完整训练流程：Base Model (27T tokens) → Mid-training (32K→128K→200K) → Post-training (SFT → Reasoning RL → Agentic RL → General RL → Cross-Stage Distillation)。
 
 ### Figure 6: MLA vs DSA SFT Loss
 
-![[GLM-5_fig6.png|600]]
+![Figure 6: MLA vs DSA SFT Loss](https://arxiv.org/html/2602.15763/x5.png)
 
 **说明**: MLA 和 DSA 模型在 SFT 训练时的 loss 曲线对比，两者基本持平。
 
 ### Figure 7: Thinking Modes
 
-![[GLM-5_fig7.png|600]]
+![Figure 7: Thinking Modes](https://arxiv.org/html/2602.15763/x6.png)
 
 **说明**: GLM-5 支持的三种 thinking 模式：Interleaved Thinking（每个 response/tool call 前思考）、Preserved Thinking（保留跨轮次思考）、Turn-level Thinking（按轮次控制）。
 
 ### Figure 8: Context Management Strategies
 
-![[GLM-5_fig8.png|600]]
+![Figure 8: Context Management](https://arxiv.org/html/2602.15763/x7.png)
 
 **说明**: BrowseComp 上不同 context management 策略效果，Hierarchical Context Management (HCM) 达到 75.9%。
 
 ### Figure 9: Reward Hacking Examples
 
-![[GLM-5_fig9.png|600]]
+![Figure 9: Reward Hacking](https://arxiv.org/html/2602.15763/x8.png)
 
 **说明**: Slides RL 训练中的 reward hacking 行为示例：硬截断过长内容、过度调整间距。
 
 ### Figure 10: Agent-as-a-Judge Pipeline
 
-![[GLM-5_fig10.png|600]]
+![Figure 10: Agent-as-a-Judge](https://arxiv.org/html/2602.15763/x9.png)
 
 **说明**: Frontend evaluation 的自动化 pipeline：Build → Agent-as-a-Judge（GUI agent 交互验证）。
 
 ### Figure 11: Real-world General Abilities
 
-![[GLM-5_fig11.png|600]]
+![Figure 11: Real-world General Abilities](https://arxiv.org/html/2602.15763/x10.png)
 
 **说明**: GLM-5 vs GLM-4.7 在五个真实场景能力的对比：翻译、多语言对话、指令跟随、世界知识、工具调用。
 
