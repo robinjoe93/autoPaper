@@ -16,6 +16,7 @@ generated_by: dailypaper-skills
 
 - [[论文笔记/_精读笔记/AI研究方法/ASI-Evolve|ASI-Evolve]]
 - [[论文笔记/_精读笔记/AI研究方法/Hyperagents|Hyperagents]]
+- [[论文笔记/_精读笔记/AI研究方法/MiniMax-M2.7-Early-Echoes-of-Self-Evolution|MiniMax-M2.7-Early-Echoes-of-Self-Evolution]]
 
 ## 说明
 
