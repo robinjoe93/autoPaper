@@ -208,5 +208,110 @@
     "id": "2512.06864",
     "date": "2026-04-13",
     "title": "Boosting Unsupervised Video Instance Segmentation"
+  },
+  {
+    "id": "2604.14268",
+    "date": "2026-04-20",
+    "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds"
+  },
+  {
+    "id": "2509.19296",
+    "date": "2026-04-20",
+    "title": "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation"
+  },
+  {
+    "id": "2603.17240",
+    "date": "2026-04-20",
+    "title": "GigaWorld-Policy: An Efficient Action-Centered World--Action Model"
+  },
+  {
+    "id": "2604.07430",
+    "date": "2026-04-20",
+    "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents"
+  },
+  {
+    "id": "2604.15289",
+    "date": "2026-04-20",
+    "title": "Abstract Sim2Real through Approximate Information States"
+  },
+  {
+    "id": "2604.14025",
+    "date": "2026-04-20",
+    "title": "Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective"
+  },
+  {
+    "id": "2602.06036",
+    "date": "2026-04-20",
+    "title": "DFlash: Block Diffusion for Flash Speculative Decoding"
+  },
+  {
+    "id": "2601.12993",
+    "date": "2026-04-20",
+    "title": "Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization"
+  },
+  {
+    "id": "2604.14811",
+    "date": "2026-04-20",
+    "title": "Learning Ad Hoc Network Dynamics via Graph-Structured World Models"
+  },
+  {
+    "id": "2604.13824",
+    "date": "2026-04-20",
+    "title": "Beyond State Consistency: Behavior Consistency in Text-Based World Models"
+  },
+  {
+    "id": "2604.13800",
+    "date": "2026-04-20",
+    "title": "EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development"
+  },
+  {
+    "id": "2604.12575",
+    "date": "2026-04-20",
+    "title": "StructDiff: A Structure-Preserving and Spatially Controllable Diffusion Model for Single-Image Generation"
+  },
+  {
+    "id": "2604.10333",
+    "date": "2026-04-20",
+    "title": "Zero-shot World Models Are Developmentally Efficient Learners"
+  },
+  {
+    "id": "2604.12626",
+    "date": "2026-04-20",
+    "title": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting"
+  },
+  {
+    "id": "2604.10465",
+    "date": "2026-04-20",
+    "title": "Rethinking the Diffusion Model from a Langevin Perspective"
+  },
+  {
+    "id": "2604.10866",
+    "date": "2026-04-20",
+    "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models"
+  },
+  {
+    "id": "2604.15284",
+    "date": "2026-04-20",
+    "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens"
+  },
+  {
+    "id": "2604.16135",
+    "date": "2026-04-20",
+    "title": "Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions"
+  },
+  {
+    "id": "2604.15911",
+    "date": "2026-04-20",
+    "title": "Efficient Video Diffusion Models: Advancements and Challenges"
+  },
+  {
+    "id": "2604.15862",
+    "date": "2026-04-20",
+    "title": "Splats in Splats++: Robust and Generalizable 3D Gaussian Splatting Steganography"
+  },
+  {
+    "id": "2604.15805",
+    "date": "2026-04-20",
+    "title": "From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins"
   }
 ]
