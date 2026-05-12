@@ -1,170 +1,5 @@
 [
   {
-    "id": "2309.06180",
-    "date": "2026-04-01",
-    "title": "vLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention"
-  },
-  {
-    "id": "2603.29791",
-    "date": "2026-04-01",
-    "title": "Simula: Reasoning-Driven Synthetic Data Generation and Evaluation"
-  },
-  {
-    "id": "2603.29640",
-    "date": "2026-04-01",
-    "title": "ASI-Evolve: AI Accelerates AI"
-  },
-  {
-    "id": "2603.29656",
-    "date": "2026-04-01",
-    "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management"
-  },
-  {
-    "id": "2603.27254",
-    "date": "2026-04-01",
-    "title": "Amalgam: Hybrid LLM-PGM Synthesis Algorithm for Accuracy and Realism"
-  },
-  {
-    "id": "2603.29522",
-    "date": "2026-04-01",
-    "title": "Baby Scale: Investigating Models Trained on Individual Children's Language Input"
-  },
-  {
-    "id": "2506.07491",
-    "date": "2026-04-01",
-    "title": "SpatialLM: Training Large Language Models for Structured Indoor Modeling"
-  },
-  {
-    "id": "2603.25502",
-    "date": "2026-04-01",
-    "title": "RealRestorer: Towards Generalizable Real-World Image Restoration"
-  },
-  {
-    "id": "2510.06596",
-    "date": "2026-04-01",
-    "title": "SDQM: Synthetic Data Quality Metric for Object Detection Dataset\n  Evaluation"
-  },
-  {
-    "id": "2510.15162",
-    "date": "2026-04-01",
-    "title": "Train a Unified Multimodal Data Quality Classifier with Synthetic Data"
-  },
-  {
-    "id": "2510.24078",
-    "date": "2026-04-01",
-    "title": "Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained\n  Classification"
-  },
-  {
-    "id": "2603.28763",
-    "date": "2026-04-01",
-    "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models"
-  },
-  {
-    "id": "2603.21354",
-    "date": "2026-04-01",
-    "title": "The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM S"
-  },
-  {
-    "id": "2510.11919",
-    "date": "2026-04-01",
-    "title": "LLM Reasoning for Machine Translation: Synthetic Data Generation over\n  Thinking Tokens"
-  },
-  {
-    "id": "2602.20951",
-    "date": "2026-04-01",
-    "title": "See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic"
-  },
-  {
-    "id": "2510.03264",
-    "date": "2026-04-01",
-    "title": "Front-Loading Reasoning: The Synergy between Pretraining and\n  Post-Training Data"
-  },
-  {
-    "id": "2510.17715",
-    "date": "2026-04-01",
-    "title": "QueST: Incentivizing LLMs to Generate Difficult Problems"
-  },
-  {
-    "id": "2601.10305",
-    "date": "2026-04-01",
-    "title": "DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset"
-  },
-  {
-    "id": "2603.28670",
-    "date": "2026-04-01",
-    "title": "Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment wi"
-  },
-  {
-    "id": "2603.26444",
-    "date": "2026-04-01",
-    "title": "Image-based Quantification of Postural Deviations on Patients with Cervical Dystonia: A Machine Lear"
-  },
-  {
-    "id": "2603.25726",
-    "date": "2026-04-01",
-    "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation"
-  },
-  {
-    "id": "2603.26754",
-    "date": "2026-04-01",
-    "title": "Generating Synthetic Wildlife Health Data from Camera Trap Imagery: A Pipeline for Alopecia and Body"
-  },
-  {
-    "id": "2510.03434",
-    "date": "2026-04-01",
-    "title": "Paris: A Decentralized Trained Open-Weight Diffusion Model"
-  },
-  {
-    "id": "2510.17928",
-    "date": "2026-04-01",
-    "title": "EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable\n  Learning"
-  },
-  {
-    "id": "2510.15510",
-    "date": "2026-04-01",
-    "title": "Exploring Conditions for Diffusion models in Robotic Control"
-  },
-  {
-    "id": "2511.07025",
-    "date": "2026-04-01",
-    "title": "Llama-Embed-Nemotron-8B: A Universal Text Embedding Model for\n  Multilingual and Cross-Lingual Tasks"
-  },
-  {
-    "id": "2603.05312",
-    "date": "2026-04-09",
-    "title": "UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data"
-  },
-  {
-    "id": "2603.25725v1",
-    "date": "2026-04-09",
-    "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation"
-  },
-  {
-    "id": "2512.17504",
-    "date": "2026-04-09",
-    "title": "InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion"
-  },
-  {
-    "id": "2603.28763v1",
-    "date": "2026-04-09",
-    "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models"
-  },
-  {
-    "id": "2603.25726v2",
-    "date": "2026-04-09",
-    "title": "AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation"
-  },
-  {
-    "id": "2603.28670v1",
-    "date": "2026-04-09",
-    "title": "Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim"
-  },
-  {
-    "id": "2603.29733v1",
-    "date": "2026-04-09",
-    "title": "Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection"
-  },
-  {
     "id": "2603.19461",
     "date": "2026-04-13",
     "title": "Hyperagents: Self-Improving AI Systems"
@@ -313,5 +148,135 @@
     "id": "2604.15805",
     "date": "2026-04-20",
     "title": "From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins"
+  },
+  {
+    "id": "2605.10806",
+    "date": "2026-05-12",
+    "title": "PhyGround: Benchmarking Physical Reasoning in Generative World Models"
+  },
+  {
+    "id": "2605.08279",
+    "date": "2026-05-12",
+    "title": "LaWM: Least Action World Models for Long-Horizon Physical Consistency from Visual Observations"
+  },
+  {
+    "id": "2605.08567",
+    "date": "2026-05-12",
+    "title": "ACWM-Phys: Investigating Generalized Physical Interaction in Action-Conditioned Video World Models"
+  },
+  {
+    "id": "2605.09586",
+    "date": "2026-05-12",
+    "title": "DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos"
+  },
+  {
+    "id": "2605.08797",
+    "date": "2026-05-12",
+    "title": "REAP: Reinforcement-Learning End-to-End Autonomous Parking with Gaussian Splatting Simulator for Realistic Rendering"
+  },
+  {
+    "id": "2605.06192",
+    "date": "2026-05-12",
+    "title": "EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields"
+  },
+  {
+    "id": "2605.05951",
+    "date": "2026-05-12",
+    "title": "HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning"
+  },
+  {
+    "id": "2605.06063",
+    "date": "2026-05-12",
+    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models"
+  },
+  {
+    "id": "2605.07348",
+    "date": "2026-05-12",
+    "title": "Learning Visual Feature-Based World Models via Residual Latent Action"
+  },
+  {
+    "id": "2605.08732",
+    "date": "2026-05-12",
+    "title": "Latent Geometry Beyond Search: Amortizing Planning in World Models"
+  },
+  {
+    "id": "2605.09131",
+    "date": "2026-05-12",
+    "title": "MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments"
+  },
+  {
+    "id": "2605.07390",
+    "date": "2026-05-12",
+    "title": "ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation"
+  },
+  {
+    "id": "2605.06509",
+    "date": "2026-05-12",
+    "title": "FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction"
+  },
+  {
+    "id": "2605.10617",
+    "date": "2026-05-12",
+    "title": "Muninn: Your Trajectory Diffusion Model But Faster"
+  },
+  {
+    "id": "2605.07288",
+    "date": "2026-05-12",
+    "title": "Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training"
+  },
+  {
+    "id": "2605.06553",
+    "date": "2026-05-12",
+    "title": "Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance"
+  },
+  {
+    "id": "2605.09789",
+    "date": "2026-05-12",
+    "title": "Zero-Shot Sim-to-Real Robot Learning: A Dexterous Manipulation Study on Reactive Catching"
+  },
+  {
+    "id": "2605.10426",
+    "date": "2026-05-12",
+    "title": "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving"
+  },
+  {
+    "id": "2605.05836",
+    "date": "2026-05-12",
+    "title": "RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI"
+  },
+  {
+    "id": "2605.09372",
+    "date": "2026-05-12",
+    "title": "DriveFuture: Future-Aware Latent World Models for Autonomous Driving"
+  },
+  {
+    "id": "2605.07508",
+    "date": "2026-05-12",
+    "title": "One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy"
+  },
+  {
+    "id": "2605.10650",
+    "date": "2026-05-12",
+    "title": "Is Your Driving World Model an All-Around Player?"
+  },
+  {
+    "id": "2605.09886",
+    "date": "2026-05-12",
+    "title": "Network-Efficient World Model Token Streaming"
+  },
+  {
+    "id": "2605.09612",
+    "date": "2026-05-12",
+    "title": "Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study"
+  },
+  {
+    "id": "2605.06337",
+    "date": "2026-05-12",
+    "title": "Earth-o1: A Grid-free Observation-native Atmospheric World Model"
+  },
+  {
+    "id": "2605.10540",
+    "date": "2026-05-12",
+    "title": "Embodied AI in Action: Insights from SAE World Congress 2026"
   }
 ]
