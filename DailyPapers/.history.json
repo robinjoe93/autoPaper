@@ -278,5 +278,65 @@
     "id": "2605.10540",
     "date": "2026-05-12",
     "title": "Embodied AI in Action: Insights from SAE World Congress 2026"
+  },
+  {
+    "id": "2605.08000",
+    "date": "2026-05-12",
+    "title": "Rethinking Dense Optical Flow without Test-Time Scaling"
+  },
+  {
+    "id": "2605.07945",
+    "date": "2026-05-12",
+    "title": "Rebalancing gradient to improve self-supervised co-training of depth, odometry and optical flow prediction"
+  },
+  {
+    "id": "2605.07653",
+    "date": "2026-05-12",
+    "title": "Aquatic Neuromorphic Optical Flow"
+  },
+  {
+    "id": "2605.10307",
+    "date": "2026-05-12",
+    "title": "PaMoSplat: Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction"
+  },
+  {
+    "id": "2605.06280",
+    "date": "2026-05-12",
+    "title": "Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency"
+  },
+  {
+    "id": "2605.04461",
+    "date": "2026-05-12",
+    "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation"
+  },
+  {
+    "id": "2605.05756",
+    "date": "2026-05-12",
+    "title": "MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation"
+  },
+  {
+    "id": "2605.05126",
+    "date": "2026-05-12",
+    "title": "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotics"
+  },
+  {
+    "id": "2605.07448",
+    "date": "2026-05-12",
+    "title": "Predictive but Not Plannable: RC-aux for Latent World Models"
+  },
+  {
+    "id": "2605.06345",
+    "date": "2026-05-12",
+    "title": "Arena as Offline Reward: Efficient Fine-Grained Preference Optimization for Diffusion Models"
+  },
+  {
+    "id": "2605.04692",
+    "date": "2026-05-12",
+    "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models"
+  },
+  {
+    "id": "2605.09645",
+    "date": "2026-05-12",
+    "title": "CAGS: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting"
   }
 ]
